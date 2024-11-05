@@ -1,4 +1,4 @@
-# frequency-domain-Phase-retrieval-
+# frequency-domain-Phase-retrieval
 Python codes for frequency domain Phase retrieval applied to Coherent Anti-Stokes Raman Scattering
 
 Corresponding results are presented in the paper "Computational field-resolved coherent chemical imaging"
